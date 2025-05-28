@@ -35,10 +35,7 @@
 #
 ## 2️⃣ 요구사항 정의
 
-![요청사항 정의](https://github.com/user-attachments/assets/45f56af5-c1be-43cd-9d3e-dcf42df79bf3)
-
-![image](https://github.com/user-attachments/assets/a2042bde-dd18-4683-bc96-338879eacd13)
-
+![화면 캡처 2025-05-28 165301](https://github.com/user-attachments/assets/34837c20-f80d-4500-be4d-b25fdff5a925)
 
 ## 3️⃣ 개발 환경
 
@@ -50,7 +47,7 @@
 
 ## 4️⃣ 참고 자료
 
-*(이미지 첨부 예정)*
+![image](https://github.com/user-attachments/assets/63be2490-a6ed-4ef5-883d-b5aa6463dff2)
 
-**참고:** 인프런 및 인터넷 강의 사이트
-**URL:** [https://www.inflearn.com/](https://www.inflearn.com/)
+* **참고:** 인프런 및 인터넷 강의 사이트
+* **URL:** [https://www.inflearn.com/](https://www.inflearn.com/)
