@@ -1,5 +1,7 @@
 # 플레인프런 ▶ 2in1 인터넷 강의 플랫폼👋
 
+![9642c6ad-e04c-4f98-9fb5-8fc0be2c0e39](https://github.com/user-attachments/assets/eb9e020a-648a-4d66-87ce-eaca430de633)
+
 ## 1️⃣ 프로젝트 개요
 
 **<p>$\it{\large{\color{#DD6565}① \ 프로젝트명}}$</p>** 
